@@ -63,7 +63,7 @@ void display2(){
 }
 };
 int main(){
-    Teacher t1("swapna",);
+    Teacher t1("swapna");
     Student s1;
     t1.display1();
     s1.display2();
